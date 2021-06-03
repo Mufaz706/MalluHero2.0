@@ -14,7 +14,6 @@ Telegram BoT
 ## Dev Details 👤:
 
 <p align="middle">
-<img src="https://telegra.ph/file/9e831d15da94deb56ef4c.jpg" width="150" height="150"><br>
 <img src="https://badgen.net/badge/Nᴀᴍᴇ/Mʀᴋ-YT/FF33FF?icon=awesome&labelColor=0080FF"></a>
 <img src="https://badgen.net/badge/Sᴋɪʟʟs/😞/purple?icon=terminal&labelColor=red"></a>
 <a href="https://telegram.dog/MRK_yt"><img src="https://img.shields.io/badge/Tᴇʟᴇɢʀᴀᴍ-Lɪɴᴋ-blue.svg?logo=telegram"></a>
