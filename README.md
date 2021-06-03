@@ -53,11 +53,9 @@ Telegram BoT
 
 ### Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRK-YT/MT-Rose-Bot-Model)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mufaz706/malluhero2.0)
 
 "><img src="https://img.shields.io/badge/Yᴏᴜᴛᴜʙᴇ-Cʜᴀɴɴᴇʟ-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
-<a href="https://Instagram.com/mrk_yt_"><img src="https://badgen.net/badge/Fᴏʟʟᴏᴡ%20Oɴ%20/Iɴsᴛᴀɢʀᴀᴍ/80FF00?icon=Instagram&labelColor=black"></a>
-<p align="left">
 </p>                                                           
                                                     
 [![Open Source? Yes!](https://badgen.net/badge/Oᴘᴇɴ%20Sᴏᴜʀᴄᴇ%20%3F/Yᴇs/yellow?icon=github)](https://github.com/MRK-YT/MT-FilesStoreBot)
@@ -92,5 +90,5 @@ Telegram BoT
 
 ### Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRK-YT/MT-Rose-Bot-Model)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mufaz706/mallu_hero2.0)
 
